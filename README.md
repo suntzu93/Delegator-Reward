@@ -1,7 +1,7 @@
 # Monitor-Cost-Model-GRT
 1. Install [python3](https://www.python.org/download/releases/3.0/) , pip3 and modules (psycopg2 , pytz)
 2. Change your postgres config in database.ini
-3. Start tool ( should be run tool below background)
+3. Start tool ( should be run tool after re-allocation )
 
 Example: python3 monitor_cost_model.py param1
 
